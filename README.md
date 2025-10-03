@@ -2,23 +2,6 @@
 
 I'm a Python Web Developer :snake:
 
-## Stacks
-  * :heavy_check_mark: Django
-  * :pencil: Flask
-  * :pencil: JavaScript ( jQuery and Ajax )
-  * :heavy_check_mark: PostgreSQL
-  * :mag_right: Docker
-  * :computer: PyAutoGUI
-  * :bulb: Selenium
-
-# :email: Contact me in mayer.felipe@outlook.com 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefoc&show_icons=true&theme=radical)
-
-
-
-
-
 <!--
 **felipefoc/felipefoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
