@@ -1,0 +1,22 @@
+name: render profile assets
+on:
+  schedule: [{ cron: "17 6 * * *" }]
+  workflow_dispatch:
+  push:
+    paths: [scripts/render.py]
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python scripts/render.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - run: |
+          git diff --quiet && exit 0
+          git config user.name github-actions[bot]
+          git config user.email 41898283+github-actions[bot]@users.noreply.github.com
+          git commit -qam "Refresh profile assets"
+          git push
