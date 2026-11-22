@@ -14,7 +14,7 @@ text{font-family:ui-monospace,"JetBrains Mono","Cascadia Code",SFMono-Regular,Me
 <text x="25" y="26" style="fill:#1a1b26;font-weight:700">1</text>
 <text x="52" y="26" class="dim">2</text><text x="72" y="26" class="dim">3</text><text x="92" y="26" class="dim">4</text>
 <text x="420" y="26" text-anchor="middle" class="dim">felipe@omarchy</text>
-<text x="822" y="26" text-anchor="end"><tspan class="g">seafile ✓</tspan><tspan class="dim">   ·   </tspan><tspan class="c">ollama qwen3</tspan><tspan class="dim">   ·   </tspan>pt-BR</text>
+<text x="822" y="26" text-anchor="end"><tspan class="g">seafile ✓</tspan><tspan class="dim">   ·   </tspan>pt-BR</text>
 <rect x="9" y="45" width="460" height="266" rx="8" fill="#1a1b26" stroke="#7aa2f7" stroke-width="2"/>
 <text x="28" y="76"><tspan class="b">~</tspan> <tspan class="g">❯</tspan> whoami</text>
 <text x="28" y="112" class="h">Felipe Mayer</text>
