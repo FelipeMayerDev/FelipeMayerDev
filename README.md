@@ -37,7 +37,7 @@ I live in [Orca](https://onorca.dev): every agent session, review and plugin bel
 - [omarchy-theme-sync](https://github.com/FelipeMayerDev/omarchy-theme-sync) — Orca's interface, editor and terminal follow the Omarchy theme in real time
 - [second-brain](https://github.com/FelipeMayerDev/second-brain) — one technical memory shared by all my coding agents
 
-<p align="center"><img src="https://raw.githubusercontent.com/FelipeMayerDev/orca-walkthrough/HEAD/images/cover.webp" alt="orca-walkthrough: a change read step by step" width="70%"></p>
+<p align="center"><a href="https://github.com/FelipeMayerDev/orca-walkthrough"><img src="assets/orca-walkthrough.webp" alt="orca-walkthrough demo: picking a scope and reading a change step by step" width="85%"></a></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/section-plugins-dark.svg">
