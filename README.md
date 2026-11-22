@@ -12,8 +12,8 @@
 ### self-hosted/
 
 - [fockytv](https://github.com/FelipeMayerDev/fockytv) — low-latency screen sharing: broadcast-box (WHIP/WHEP) in Docker + Electron client
-- [fluxer](https://github.com/FelipeMayerDev/fluxer) — chat, pointed at my own instance, with desktop builds in CI
-- [ponto](https://github.com/FelipeMayerDev/ponto) — per-project tickets with an embeddable widget and a panel
+- [Tailscale](https://tailscale.com) — private mesh network tying the home server, desktop and phone together
+- [Hermes](https://github.com/NousResearch/hermes-agent) — always-on AI agent running on my own server
 
 ### agents/
 

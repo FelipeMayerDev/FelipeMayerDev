@@ -22,7 +22,7 @@ text{font-family:ui-monospace,"JetBrains Mono","Cascadia Code",SFMono-Regular,Me
 <text x="28" y="160">In love with open source. Hopelessly into AI.</text>
 <text x="28" y="196"><tspan class="b">~</tspan> <tspan class="g">❯</tspan> cat now.txt</text>
 <text x="28" y="220"><tspan class="o">›</tspan> widgets and themes for my Omarchy desktop</text>
-<text x="28" y="240"><tspan class="o">›</tspan> self-hosted video, files and chat</text>
+<text x="28" y="240"><tspan class="o">›</tspan> self-hosted video, files, mesh VPN and AI</text>
 <text x="28" y="260"><tspan class="o">›</tspan> plumbing for AI coding agents</text>
 <text x="28" y="292"><tspan class="b">~</tspan> <tspan class="g">❯</tspan></text>
 <rect class="cur" x="58" y="281" width="8" height="15" fill="#c0caf5"/>
@@ -32,8 +32,8 @@ text{font-family:ui-monospace,"JetBrains Mono","Cascadia Code",SFMono-Regular,Me
 <text x="496" y="112" class="dim">bar widgets, live themes</text>
 <rect x="478" y="138" width="353" height="81" rx="8" fill="#1a1b26" stroke="#292e42"/>
 <text x="496" y="163" class="p">self-hosted/</text>
-<text x="496" y="185">fockytv · fluxer · ponto</text>
-<text x="496" y="205" class="dim">screen sharing, chat, tickets</text>
+<text x="496" y="185">fockytv · Tailscale · Hermes</text>
+<text x="496" y="205" class="dim">screen sharing, mesh VPN, AI agent</text>
 <rect x="478" y="231" width="353" height="80" rx="8" fill="#1a1b26" stroke="#292e42"/>
 <text x="496" y="256" class="p">agents/</text>
 <text x="496" y="278">orca-walkthrough · second-brain</text>
