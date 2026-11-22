@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/desktop-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/desktop-light.svg">
-  <img alt="Felipe Mayer: Python, Django, Postgres, AWS and AI agents. In love with open source, hopelessly into AI." src="assets/desktop-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/desktop-dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="assets/desktop-light.svg?v=2">
+  <img alt="Felipe Mayer: Python, Django, Postgres, AWS and AI agents. In love with open source, hopelessly into AI." src="assets/desktop-dark.svg?v=2" width="100%">
 </picture>
 
 <picture>
