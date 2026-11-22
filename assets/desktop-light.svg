@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 320" width="840" height="320" role="img" aria-labelledby="t">
+<title id="t">Felipe Mayer: a Hyprland desktop where each window is a group of projects</title>
+<style>
+text{font-family:ui-monospace,"JetBrains Mono","Cascadia Code",SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:13px;fill:#3760bf}
+.dim{fill:#8990b3}.b{fill:#2e7de9}.p{fill:#9854f1}.g{fill:#587539}.c{fill:#007197}.o{fill:#b15c00}
+.h{font-size:24px;font-weight:700;fill:#3760bf}
+.cur{animation:blink 1.1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.cur{animation:none}}
+</style>
+<rect width="840" height="320" rx="12" fill="#d0d5e3"/>
+<rect x="8" y="8" width="824" height="28" rx="7" fill="#e1e2e7"/>
+<rect x="18" y="14" width="22" height="16" rx="4" fill="#2e7de9"/>
+<text x="25" y="26" style="fill:#e1e2e7;font-weight:700">1</text>
+<text x="52" y="26" class="dim">2</text><text x="72" y="26" class="dim">3</text><text x="92" y="26" class="dim">4</text>
+<text x="420" y="26" text-anchor="middle" class="dim">felipe@omarchy</text>
+<text x="822" y="26" text-anchor="end"><tspan class="g">seafile ✓</tspan><tspan class="dim">   ·   </tspan><tspan class="c">ollama qwen3</tspan><tspan class="dim">   ·   </tspan>pt-BR</text>
+<rect x="9" y="45" width="460" height="266" rx="8" fill="#e1e2e7" stroke="#2e7de9" stroke-width="2"/>
+<text x="28" y="76"><tspan class="b">~</tspan> <tspan class="g">❯</tspan> whoami</text>
+<text x="28" y="112" class="h">Felipe Mayer</text>
+<text x="28" y="140">Python · Django · Postgres · AWS · AI agents</text>
+<text x="28" y="160">In love with open source. Hopelessly into AI.</text>
+<text x="28" y="196"><tspan class="b">~</tspan> <tspan class="g">❯</tspan> cat now.txt</text>
+<text x="28" y="220"><tspan class="o">›</tspan> widgets and themes for my Omarchy desktop</text>
+<text x="28" y="240"><tspan class="o">›</tspan> self-hosted video, files and chat</text>
+<text x="28" y="260"><tspan class="o">›</tspan> plumbing for AI coding agents</text>
+<text x="28" y="292"><tspan class="b">~</tspan> <tspan class="g">❯</tspan></text>
+<rect class="cur" x="58" y="281" width="8" height="15" fill="#3760bf"/>
+<rect x="478" y="45" width="353" height="81" rx="8" fill="#e1e2e7" stroke="#b4b5b9"/>
+<text x="496" y="70" class="p">desktop/</text>
+<text x="496" y="92">omaseafile · omallama · OmarchyAiMenu</text>
+<text x="496" y="112" class="dim">bar widgets, live themes, AI overlay</text>
+<rect x="478" y="138" width="353" height="81" rx="8" fill="#e1e2e7" stroke="#b4b5b9"/>
+<text x="496" y="163" class="p">self-hosted/</text>
+<text x="496" y="185">fockytv · fluxer · ponto</text>
+<text x="496" y="205" class="dim">screen sharing, chat, tickets</text>
+<rect x="478" y="231" width="353" height="80" rx="8" fill="#e1e2e7" stroke="#b4b5b9"/>
+<text x="496" y="256" class="p">agents/</text>
+<text x="496" y="278">orca-walkthrough · second-brain</text>
+<text x="496" y="298" class="dim">plugins, subagents, shared memory</text>
+</svg>
