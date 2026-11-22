@@ -7,8 +7,6 @@
 ### desktop/ — Omarchy & Hyprland
 
 - [omaseafile](https://github.com/FelipeMayerDev/omaseafile) — Seafile in the bar: starts its own daemon and syncs libraries, no desktop client needed
-- [omallama](https://github.com/FelipeMayerDev/omallama) — Ollama in the bar: model list, context gauge, pulls and deletes, local or remote
-- [OmarchyAiMenu](https://github.com/FelipeMayerDev/OmarchyAiMenu) — AI overlay for several coding agents, with streaming and context usage
 - [omarchy-theme-sync](https://github.com/FelipeMayerDev/omarchy-theme-sync) · [omarchy-vesktop-theme](https://github.com/FelipeMayerDev/omarchy-vesktop-theme) — apps follow the current Omarchy theme live
 
 ### self-hosted/
